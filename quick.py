@@ -1,3 +1,4 @@
+# X AND Y VALUES ARE BASICALLY FROM MY COMPUTER RUN TIME FOR DIFFERENT VALUES OF N 
 import matplotlib.pyplot as plt
 
 # Sample data
@@ -16,5 +17,6 @@ plt.legend()
 # Show the plot
 plt.grid(True)
 plt.show()
+
 
 
